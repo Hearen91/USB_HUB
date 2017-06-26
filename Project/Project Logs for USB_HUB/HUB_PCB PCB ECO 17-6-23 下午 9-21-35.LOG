@@ -1,0 +1,68 @@
+Added Component: Designator=G3(XTAL)
+Added Component: Designator=J3(USB3.0_TP)
+Added Component: Designator=J4(USB3.0_Double_DIP)
+Added Component: Designator=Q2(SOT-343_N)
+Added Net: Name=AVDD12
+Added Net: Name=AVDD33
+Added Net: Name=CC1
+Added Net: Name=CC2
+Added Net: Name=CHIPEN
+Added Net: Name=DM0
+Added Net: Name=DM2
+Added Net: Name=DM3
+Added Net: Name=DP0
+Added Net: Name=DP2
+Added Net: Name=DP3
+Added Net: Name=DV12_1
+Added Net: Name=NetC84_1
+Added Net: Name=NetC85_1
+Added Net: Name=NetC87_2
+Added Net: Name=NetC91_2
+Added Net: Name=NetC92_2
+Added Net: Name=NetC94_2
+Added Net: Name=NetC95_1
+Added Net: Name=NetC96_2
+Added Net: Name=NetC97_1
+Added Net: Name=NetC98_2
+Added Net: Name=NetC99_2
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-4
+Added Net: Name=NetQ2_3
+Added Net: Name=PGANG
+Added Net: Name=RESET
+Added Net: Name=RTERM
+Added Net: Name=RXN_DN1
+Added Net: Name=RXN_DN2
+Added Net: Name=RXN_TC
+Added Net: Name=RXN_UP
+Added Net: Name=RXP_DN1
+Added Net: Name=RXP_DN2
+Added Net: Name=RXP_TC
+Added Net: Name=RXP_UP
+Added Net: Name=SW
+Added Net: Name=TXN_DN1
+Added Net: Name=TXN_DN2
+Added Net: Name=TXN_TC
+Added Net: Name=TXN_UP
+Added Net: Name=TXP_DN1
+Added Net: Name=TXP_DN2
+Added Net: Name=TXP_TC
+Added Net: Name=TXP_UP
+Added Net: Name=VBUS_IN
+Added Net: Name=VBUS
+Added Net: Name=VCC
+Added Net: Name=VDP1
+Added Pin To Net: NetName=VSSP Pin=G3-2
+Added Pin To Net: NetName=VSSP Pin=G3-4
+Added Net: Name=VSSP
+Added Net: Name=VTC
+Added Pin To Net: NetName=X1 Pin=G3-1
+Added Net: Name=X1
+Added Pin To Net: NetName=X2 Pin=G3-3
+Added Net: Name=X2
+Added Class: Name=HUB_Sheet3
+Added Room: Name=HUB_Sheet3

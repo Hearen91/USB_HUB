@@ -1,0 +1,251 @@
+Added Component: Designator=C82(0603P)
+Added Component: Designator=C83(0603P)
+Added Component: Designator=C84(0603P)
+Added Component: Designator=C85(0603P)
+Added Component: Designator=C86(0603P)
+Added Component: Designator=C87(0603P)
+Added Component: Designator=C88(0603P)
+Added Component: Designator=C89(0603P)
+Added Component: Designator=C90(0603P)
+Added Component: Designator=C91(0603P)
+Added Component: Designator=C92(0603P)
+Added Component: Designator=C93(0603P)
+Added Component: Designator=C94(0603P)
+Added Component: Designator=C95(0603P)
+Added Component: Designator=C96(0603P)
+Added Component: Designator=C97(0603P)
+Added Component: Designator=C98(0603P)
+Added Component: Designator=C99(0603P)
+Added Component: Designator=C100(0603P)
+Added Component: Designator=C101(0603P)
+Added Component: Designator=C102(0603P)
+Added Component: Designator=C103(0603P)
+Added Component: Designator=C104(0603P)
+Added Component: Designator=C105(0603P)
+Added Component: Designator=C106(0603P)
+Added Component: Designator=C107(0603P)
+Added Component: Designator=C108(0603P)
+Added Component: Designator=C109(0603P)
+Added Component: Designator=C110(0603P)
+Added Component: Designator=C111(0603P)
+Added Component: Designator=C112(0603P)
+Added Component: Designator=C113(0603P)
+Added Component: Designator=C114(0603P)
+Added Component: Designator=C115(0603P)
+Added Component: Designator=C116(0603P)
+Added Component: Designator=C117(0603P)
+Added Component: Designator=C118(0603P)
+Added Component: Designator=C119(0603P)
+Added Component: Designator=G3(XTAL)
+Added Component: Designator=J3(USB3.0_TP)
+Added Component: Designator=J4(USB3.0_Double_DIP)
+Added Component: Designator=L14(0603P)
+Added Component: Designator=L15(0603P)
+Added Component: Designator=L16(0603P)
+Added Component: Designator=L17(0603P)
+Added Component: Designator=L18(0603P)
+Added Component: Designator=L19(0603P)
+Added Component: Designator=L20(0603P)
+Added Component: Designator=Q2(SOT-343_N)
+Added Component: Designator=R27(0603P)
+Added Component: Designator=R28(0603P)
+Added Component: Designator=R29(0603P)
+Added Component: Designator=R30(0603P)
+Added Component: Designator=R31(0603P)
+Added Component: Designator=R32(0603P)
+Added Component: Designator=R33(0603P)
+Added Component: Designator=R34(0603P)
+Added Component: Designator=R35(0603P)
+Added Component: Designator=R36(0603P)
+Added Component: Designator=R37(0603P)
+Added Component: Designator=R38(0603P)
+Added Component: Designator=R39(0603P)
+Added Component: Designator=U4(GL3523_QFN76)
+Added Pin To Net: NetName=VCC Pin=C82-1
+Added Pin To Net: NetName=VSSP Pin=C82-2
+Added Pin To Net: NetName=VSSP Pin=C83-1
+Added Pin To Net: NetName=VCC Pin=C83-2
+Added Pin To Net: NetName=NetC84_1 Pin=C84-1
+Added Pin To Net: NetName=TXN_UP Pin=C84-2
+Added Pin To Net: NetName=NetC85_1 Pin=C85-1
+Added Pin To Net: NetName=TXP_UP Pin=C85-2
+Added Pin To Net: NetName=VSSP Pin=C86-1
+Added Pin To Net: NetName=VBUS Pin=C86-2
+Added Pin To Net: NetName=VSSP Pin=C87-1
+Added Pin To Net: NetName=NetC87_2 Pin=C87-2
+Added Pin To Net: NetName=X1 Pin=C88-1
+Added Pin To Net: NetName=VSSP Pin=C88-2
+Added Pin To Net: NetName=VSSP Pin=C89-1
+Added Pin To Net: NetName=X2 Pin=C89-2
+Added Pin To Net: NetName=VSSP Pin=C90-1
+Added Pin To Net: NetName=VDP1 Pin=C90-2
+Added Pin To Net: NetName=VSSP Pin=C91-1
+Added Pin To Net: NetName=NetC91_2 Pin=C91-2
+Added Pin To Net: NetName=VSSP Pin=C92-1
+Added Pin To Net: NetName=NetC92_2 Pin=C92-2
+Added Pin To Net: NetName=VSSP Pin=C93-1
+Added Pin To Net: NetName=VDP1 Pin=C93-2
+Added Pin To Net: NetName=TXN_DN1 Pin=C94-1
+Added Pin To Net: NetName=NetC94_2 Pin=C94-2
+Added Pin To Net: NetName=NetC95_1 Pin=C95-1
+Added Pin To Net: NetName=TXN_DN2 Pin=C95-2
+Added Pin To Net: NetName=TXP_DN1 Pin=C96-1
+Added Pin To Net: NetName=NetC96_2 Pin=C96-2
+Added Pin To Net: NetName=NetC97_1 Pin=C97-1
+Added Pin To Net: NetName=TXP_DN2 Pin=C97-2
+Added Pin To Net: NetName=TXP_TC Pin=C98-1
+Added Pin To Net: NetName=NetC98_2 Pin=C98-2
+Added Pin To Net: NetName=TXN_TC Pin=C99-1
+Added Pin To Net: NetName=NetC99_2 Pin=C99-2
+Added Pin To Net: NetName=VSSP Pin=C100-1
+Added Pin To Net: NetName=VBUS Pin=C100-2
+Added Pin To Net: NetName=VSSP Pin=C101-1
+Added Pin To Net: NetName=VTC Pin=C101-2
+Added Pin To Net: NetName=VSSP Pin=C102-1
+Added Pin To Net: NetName=DV12_1 Pin=C102-2
+Added Pin To Net: NetName=VSSP Pin=C103-1
+Added Pin To Net: NetName=DV12_1 Pin=C103-2
+Added Pin To Net: NetName=VSSP Pin=C104-1
+Added Pin To Net: NetName=AVDD12 Pin=C104-2
+Added Pin To Net: NetName=VSSP Pin=C105-1
+Added Pin To Net: NetName=DV12_1 Pin=C105-2
+Added Pin To Net: NetName=VSSP Pin=C106-1
+Added Pin To Net: NetName=DV12_1 Pin=C106-2
+Added Pin To Net: NetName=VSSP Pin=C107-1
+Added Pin To Net: NetName=AVDD33 Pin=C107-2
+Added Pin To Net: NetName=VSSP Pin=C108-1
+Added Pin To Net: NetName=AVDD33 Pin=C108-2
+Added Pin To Net: NetName=VSSP Pin=C109-1
+Added Pin To Net: NetName=AVDD33 Pin=C109-2
+Added Pin To Net: NetName=VSSP Pin=C110-1
+Added Pin To Net: NetName=AVDD33 Pin=C110-2
+Added Pin To Net: NetName=VSSP Pin=C111-1
+Added Pin To Net: NetName=AVDD33 Pin=C111-2
+Added Pin To Net: NetName=VSSP Pin=C112-1
+Added Pin To Net: NetName=AVDD12 Pin=C112-2
+Added Pin To Net: NetName=VSSP Pin=C113-1
+Added Pin To Net: NetName=AVDD12 Pin=C113-2
+Added Pin To Net: NetName=VSSP Pin=C114-1
+Added Pin To Net: NetName=AVDD12 Pin=C114-2
+Added Pin To Net: NetName=VSSP Pin=C115-1
+Added Pin To Net: NetName=AVDD12 Pin=C115-2
+Added Pin To Net: NetName=VSSP Pin=C116-1
+Added Pin To Net: NetName=AVDD12 Pin=C116-2
+Added Pin To Net: NetName=VSSP Pin=C117-1
+Added Pin To Net: NetName=AVDD12 Pin=C117-2
+Added Pin To Net: NetName=VSSP Pin=C118-1
+Added Pin To Net: NetName=AVDD12 Pin=C118-2
+Added Pin To Net: NetName=VSSP Pin=C119-1
+Added Pin To Net: NetName=AVDD12 Pin=C119-2
+Added Pin To Net: NetName=X1 Pin=G3-1
+Added Pin To Net: NetName=VSSP Pin=G3-2
+Added Pin To Net: NetName=X2 Pin=G3-3
+Added Pin To Net: NetName=VSSP Pin=G3-4
+Added Pin To Net: NetName=NetC87_2 Pin=L14-1
+Added Pin To Net: NetName=VBUS Pin=L14-2
+Added Pin To Net: NetName=NetC91_2 Pin=L15-1
+Added Pin To Net: NetName=VDP1 Pin=L15-2
+Added Pin To Net: NetName=VDP1 Pin=L16-1
+Added Pin To Net: NetName=NetC92_2 Pin=L16-2
+Added Pin To Net: NetName=VTC Pin=L17-1
+Added Pin To Net: NetName=VBUS Pin=L17-2
+Added Pin To Net: NetName=DV12_1 Pin=L18-1
+Added Pin To Net: NetName=SW Pin=L18-2
+Added Pin To Net: NetName=AVDD12 Pin=L19-1
+Added Pin To Net: NetName=DV12_1 Pin=L19-2
+Added Pin To Net: NetName=VDP1 Pin=L20-1
+Added Pin To Net: NetName=VCC Pin=L20-2
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-4
+Added Pin To Net: NetName=CHIPEN Pin=R27-1
+Added Pin To Net: NetName=VCC Pin=R27-2
+Added Pin To Net: NetName=RESET Pin=R28-1
+Added Pin To Net: NetName=VBUS Pin=R28-2
+Added Pin To Net: NetName=RTERM Pin=R29-1
+Added Pin To Net: NetName=VSSP Pin=R29-2
+Added Pin To Net: NetName=VBUS_IN Pin=R30-1
+Added Pin To Net: NetName=VBUS Pin=R30-2
+Added Pin To Net: NetName=VSSP Pin=R31-1
+Added Pin To Net: NetName=VBUS_IN Pin=R31-2
+Added Pin To Net: NetName=VSSP Pin=R32-1
+Added Pin To Net: NetName=VDP1 Pin=R32-2
+Added Pin To Net: NetName=VSSP Pin=R33-1
+Added Pin To Net: NetName=VDP1 Pin=R33-2
+Added Pin To Net: NetName=VCC Pin=R34-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R34-2
+Added Pin To Net: NetName=VCC Pin=R35-1
+Added Pin To Net: NetName=NetQ2_3 Pin=R35-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R36-1
+Added Pin To Net: NetName=VBUS Pin=R36-2
+Added Pin To Net: NetName=VSSP Pin=R37-1
+Added Pin To Net: NetName=VBUS Pin=R37-2
+Added Pin To Net: NetName=PGANG Pin=R38-1
+Added Pin To Net: NetName=VCC Pin=R38-2
+Added Pin To Net: NetName=PGANG Pin=R39-1
+Added Pin To Net: NetName=VSSP Pin=R39-2
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C82 10uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C83 10uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C84 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C85 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C86 2.2uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C87 10uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C88 12pF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C89 12pF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C90 10uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C91 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C92 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C93 10uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C94 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C95 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C96 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C97 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C98 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C99 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C100 10uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C101 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C102 10uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C103 10uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C104 10uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C105 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C106 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C107 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C108 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C109 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C110 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C111 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C112 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C113 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C114 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C115 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C116 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C117 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C118 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component C119 0.1uF
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component G3 XO
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component J3 USB_B
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component J4 USB*2
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component L14 220R,2.0A,0.05DCR
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component L15 220R,2.0A,0.05DCR
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component L16 220R,2.0A,0.05DCR
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component L17 220R,2.0A,0.05DCR
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component L18 2.2uH
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component L19 220R,2.0A,0.05DCR
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component L20 2.2uH
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component Q2 MOSFET-N4
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component R27 4.7K
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component R28 10K
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component R29 20K
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component R30 5.1K
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component R31 10K
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component R32 680
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component R33 680
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component R34 220
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component R35 220
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component R36 220
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component R37 680
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component R38 100K
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component R39 100K
+Added Member To Class: ClassName=HUB_Sheet3 Member=Component U4 GL3523_S_QFN76
+Added Room: Name=HUB_Sheet3
